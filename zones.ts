@@ -17,5 +17,5 @@
 
 export default {
 	'': 'CNAME;mol-lu.github.io;PROXY',
-	'www': 'CNAME;mol-lu.github.io;PROXY'
+	'www': 'CNAME;@;PROXY'
 }
